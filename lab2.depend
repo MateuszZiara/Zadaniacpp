@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1711217227 source:c:\users\oolus\onedrive\pulpit\galanek\galanek\lab2\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<ctime>
+	<cstdlib>
+
+1716754145 source:c:\users\coons\downloads\c-first-projects-main\c-first-projects-main\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iomanip>
+
